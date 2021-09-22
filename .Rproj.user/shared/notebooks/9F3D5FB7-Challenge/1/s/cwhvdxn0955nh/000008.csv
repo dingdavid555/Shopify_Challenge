@@ -1,0 +1,4 @@
+"0","df_filtered <- df %>% filter(order_amount < 10000)"
+"0",""
+"0",""
+"0","hist(df_filtered$order_amount, xlab = ""Order Values < $10,000"", main = ""Histogram of Order Values in March < $10,000"")"

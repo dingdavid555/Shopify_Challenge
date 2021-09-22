@@ -1,0 +1,8 @@
+"0","df_cleaned <- df %>% mutate(avg_price = order_amount / total_items)"
+"0",""
+"0",""
+"0","median(df_cleaned$avg_price)"
+"1","[1]"
+"1"," 153"
+"1","
+"
